@@ -1,4 +1,3 @@
-<img src="https://www.linkedin.com/in/marissadibba/overlay/background-image/" alt="It's not about ideas, it's about making ideas happen" width="fit"> 
     <h2>Hello!</h2>
 <h4>My name is Marissa. </h4>
     <em>(Pronounced: Mah - ris - saw</em>&nbsp;&nbsp;|&nbsp;&nbsp;<em>No "L")</em></p>
