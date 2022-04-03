@@ -3,7 +3,7 @@
     <em>Pronounced: Mah - ris - sah</em></p>
     <p>It's nice to meet you.</p>
 
-<p>I've spent the past 15 years in various MarCom roles and have found my niche in digital marketing. I have made it a life-long committment to never stop learning. As technology changes, so must we. Currently, I am working on expanding my skillset to learn how to program JavaScript and more complex HTML, and CSS functionality.</p>
+<p>I've spent the past 15 years in various MarCom roles but found my niche in digital marketing. I've made it a life-long committment to never stop learning. As technology changes, so must we. Currently, I am expanding my skillset to learn how to program JavaScript, complex HTML and CSS functionality.</p>
 <p>When I'm not in front of a computer, you'll find me spending time with my family, at the potter's wheel, being crafty, or enjoying the outdoors.</p>
 <hr>
 <h3>I’m currently learning</h3> 
