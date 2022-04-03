@@ -1,34 +1,41 @@
-<h2>Hello!</h2>
-<p>My name is Marissa. <br>It's nice to meet you.</p>
-<h3>I’m interested in</h3>
-<p>Learning and practicing my craft.</p>
+<div style="background-color: #ebebeb;">
+    <h2>Hello!</h2>
+<h4>My name is Marissa. </h4>
+    <em>(Pronounced: Mah - ris - saw</em>&nbsp;&nbsp;|&nbsp;&nbsp;<em>No "L")</em></p>
+    <p>It's nice to meet you.</p>
+
+<p>I've spent the past 15 years in various MarCom roles and have found my niche in digital marketing. I have made it a life-long committment to never stop learning. As technology changes, so must we. Currently, I am working on expanding my skillset to learn how to program JavaScript and more complex HTML, and CSS functionality.</p>
+<p>When I'm not in front of a computer, you'll find me spending time with my family, at the potter's wheel, being crafty, or enjoying the outdoors.</p>
+<hr>
 <h3>I’m currently learning</h3> 
-<div><ul
-    ><li><strong>Introduction to JavaScript</strong></li>
-  <ul><li>JavaScript
-  <li>Algorithms
-  <li>OOP
-  <li>Design Patterns
-  <li>Unit Testing</li
-    ></ul></ul>
-<ul
-    ><li><strong>Front End Technologies</strong>
-  <ul><li>HTML</li>
-  <li>CSS</li>
-  <li>JQuery</li>
-  <li>Bootstrap</li>
-  <li>AJAX</li
-    ></ul></ul>
-<ul><li><strong>Web App Design with React</strong>
-  <ul><li>ReactJS</li>
-  <li>JSX</li>
-  <li>AWS</li>
-  <li>REST</li>
-  <li>NPM</li
-    ></ul></ul>
-  </div>
+<table><tbody>
+    <tr>
+        <th>Introduction to JavaScript</th>
+        <th>Front End Technologies</th>
+        <th>Web App Design with React</th>
+    </tr>
+    <tr>
+        <td>
+    <ul><li>JavaScript</li>
+        <li>Algorithms</li>
+        <li>OOP</li>
+        <li>Design Patterns</li>
+        <li>Unit Testing</li></ul></td>
+        <td>
+        <ul><li>HTML</li>
+            <li>CSS</li>
+            <li>JQuery</li>
+            <li>Bootstrap</li>
+            <li>AJAX</li></ul></td>
+            <td>
+        <ul><li>ReactJS</li>
+        <li>JSX</li>
+        <li>AWS</li>
+        <li>REST</li>
+            <li>NPM</li></ul></td></tr></tbody></table>
+<hr> 
 <h3>How to reach me</h3>
-<p>You can contact me by email or on <a href="https://www.linkedin.com/in/marissadibba/" target="_blank">LinkedIn</a>.</p>
+<p>You can contact me by <a href="mailto:marissa_dibba@yahoo.com">email</a>, on <a href="https://www.linkedin.com/in/marissadibba/" target="_blank">LinkedIn</a>, or my website <a href="https://dibbadesigns.com" target="_blank">www.DibbaDesigns.com</a>.</p></div>
 
 <!---
 Rissa-Jallow/Rissa-Jallow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
