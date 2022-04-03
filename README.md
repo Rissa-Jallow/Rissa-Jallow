@@ -1,6 +1,6 @@
-    <h2>Hello!</h2>
+<h2>Hello!</h2>
 <h4>My name is Marissa. </h4>
-    <em>(Pronounced: Mah - ris - saw</em>&nbsp;&nbsp;|&nbsp;&nbsp;<em>No "L")</em></p>
+    <em>Pronounced: Mah - ris - sah</em></p>
     <p>It's nice to meet you.</p>
 
 <p>I've spent the past 15 years in various MarCom roles and have found my niche in digital marketing. I have made it a life-long committment to never stop learning. As technology changes, so must we. Currently, I am working on expanding my skillset to learn how to program JavaScript and more complex HTML, and CSS functionality.</p>
