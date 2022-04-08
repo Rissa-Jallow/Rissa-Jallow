@@ -1,3 +1,5 @@
+![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQGNQADn0VXWNA/profile-displaybackgroundimage-shrink_350_1400/0/1517729299662?e=1654732800&v=beta&t=0KZSfaLKXUtFeG8eoK2alc9Mr3Sn0bWA8j8MDravG0c )
+
 <h2>Hello!</h2>
 <h3>My name is Marissa. </h3>
     <em>Pronounced: Mah - ris - sah</em></p>
